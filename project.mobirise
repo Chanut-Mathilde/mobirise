@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 75,
+    "uniqCompNum": 87,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x128.png",
     "noImageResize": ""
@@ -43,7 +43,7 @@
               "color": "#ffffff",
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "25px"
+              "font-size": "21px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -126,8 +126,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Accueil\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quercy des îles</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accueil\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Recettes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entrées\">Entrées</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plats\">Plats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Desserts\">Desserts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cocktails\">Cocktails</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Le domaine\" aria-expanded=\"false\">Le domaine<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li>"
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Accueil\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quercy des îles<br>l'apéritif des soleils<br></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accueil\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Toutes les recettes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entrées\">Entrées</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plats\">Plats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Desserts\">Desserts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cocktails\">Cocktails</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Le domaine\" aria-expanded=\"false\">Le domaine<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.facebook.com/quercydesiles/\" target=\"_blank\">N'hésitez pas à poster vos recettes ici !</a></li>"
         },
         {
           "_tags": [
@@ -306,7 +306,7 @@
               "color": "#ffffff",
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "25px"
+              "font-size": "21px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -389,8 +389,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Accueil\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quercy des îles</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accueil\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Recettes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entrées\">Entrées</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plats\">Plats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Desserts\">Desserts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cocktails\">Cocktails</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Le domaine\" aria-expanded=\"false\">Le domaine<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li>"
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Accueil\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quercy des îles<br>l'apéritif des soleils<br></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accueil\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Toutes les recettes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entrées\">Entrées</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plats\">Plats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Desserts\">Desserts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cocktails\">Cocktails</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Le domaine\" aria-expanded=\"false\">Le domaine<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.facebook.com/quercydesiles/\" target=\"_blank\">N'hésitez pas à poster vos recettes ici !</a></li>"
         },
         {
           "_tags": [
@@ -569,7 +569,7 @@
               "color": "#ffffff",
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "25px"
+              "font-size": "21px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -652,21 +652,78 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Accueil\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quercy des îles</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accueil\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Recettes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entrées\">Entrées</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plats\">Plats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Desserts\">Desserts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cocktails\">Cocktails</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Le domaine\" aria-expanded=\"false\">Le domaine<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li>"
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Accueil\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quercy des îles<br>l'apéritif des soleils<br></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accueil\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Toutes les recettes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entrées\">Entrées</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plats\">Plats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Desserts\">Desserts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cocktails\">Cocktails</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Le domaine\" aria-expanded=\"false\">Le domaine<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.facebook.com/quercydesiles/\" target=\"_blank\">N'hésitez pas à poster vos recettes ici !</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "timeout": 5,
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/13962669-743977105741172-2410444694061692479-n-2000x1500.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.1",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "FULL SCREEN SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/15400579-820494988089383-6596754676642170609-n-2000x1443.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.2",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "FULL SCREEN SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/20915340-1002714699867410-8299332532031338696-n-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.2",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "FULL SCREEN SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#fff",
+            "showBullets": false
+          },
+          "_anchor": "slider-27",
+          "articleLayout": false
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "content2",
-          "_anchor": "content2-1x",
-          "_params": {
-            "paddingTop": "5",
-            "paddingBottom": "1",
-            "bgColor": "#d5d3bf"
-          },
-          "text": "<p><font face=\"Titillium Web, sans-serif\"><span style=\"line-height: 26px;\">Médaille d’Argent Concours Général Agricole de Paris 2011</span></font></p><div><font face=\"Titillium Web, sans-serif\"><span style=\"line-height: 26px;\"><br></span></font></div><p><font face=\"Titillium Web, sans-serif\"><span style=\"line-height: 26px;\">Certainement l’apéritif artisanal le plus original par son mariage de saveurs et de terroirs !</span></font></p><div><font face=\"Titillium Web, sans-serif\"><span style=\"line-height: 26px;\"><br></span></font></div><div><font face=\"Titillium Web, sans-serif\"><span style=\"line-height: 26px;\">Elaboré et choyé sur les coteaux de Moissac, cette boisson élégante et savoureuse est issue de l’assemblage de quatre produits typiques en A.O.P: le jus de chasselas des Côteaux du Quercy, le rhum agricole de Martinique, la vanille de Tahiti et le piment d’Espelette.</span></font></div><div><font face=\"Titillium Web, sans-serif\"><span style=\"line-height: 26px;\"><br></span></font></div><div><font face=\"Titillium Web, sans-serif\"><span style=\"line-height: 26px;\">Vieilli pendant un an en fûts de chêne, le Quercy des Îles possède des arômes complexes de fruits, raisins, pruneaux, abricots, enrobé de rhum épanoui, et d'une finale légèrement poivrée.</span></font></div><div><font face=\"Titillium Web, sans-serif\"><span style=\"line-height: 26px;\"><br></span></font></div><div><font face=\"Titillium Web, sans-serif\"><span style=\"line-height: 26px;\">Idéal à l'apéritif, il s'apprécie aussi en fin de repas glacé sur de nombreux desserts.</span></font></div><div><font face=\"Titillium Web, sans-serif\"><span style=\"line-height: 26px;\"><br></span></font></div><div><font face=\"Titillium Web, sans-serif\"><span style=\"line-height: 26px;\">Un produit d'exception qui fait honneur aux terroirs et artisans de notre belle France !</span></font></div>",
           "_styles": {
             "P": {
               "text-align": "center"
@@ -674,7 +731,14 @@
             "DIV": {
               "text-align": "center"
             }
-          }
+          },
+          "_anchor": "content2-1x",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#d5d3bf"
+          },
+          "text": "<p><font face=\"Titillium Web, sans-serif\"><span style=\"line-height: 26px;\">Médaille d’Argent Concours Général Agricole de Paris 2011</span></font></p><div><font face=\"Titillium Web, sans-serif\"><span style=\"line-height: 26px;\"><br></span></font></div><p><font face=\"Titillium Web, sans-serif\"><span style=\"line-height: 26px;\">Certainement l’apéritif artisanal le plus original par son mariage de saveurs et de terroirs !</span></font></p><div><font face=\"Titillium Web, sans-serif\"><span style=\"line-height: 26px;\"><br></span></font></div><div><font face=\"Titillium Web, sans-serif\"><span style=\"line-height: 26px;\">Elaboré et choyé sur les coteaux de Moissac, cette boisson élégante et savoureuse est issue de l’assemblage de quatre produits typiques en A.O.P: le jus de chasselas des Côteaux du Quercy, le rhum agricole de Martinique, la vanille de Tahiti et le piment d’Espelette.</span></font></div><div><font face=\"Titillium Web, sans-serif\"><span style=\"line-height: 26px;\"><br></span></font></div><div><font face=\"Titillium Web, sans-serif\"><span style=\"line-height: 26px;\">Vieilli pendant un an en fûts de chêne, le Quercy des Îles possède des arômes complexes de fruits, raisins, pruneaux, abricots, enrobé de rhum épanoui, et d'une finale légèrement poivrée.</span></font></div><div><font face=\"Titillium Web, sans-serif\"><span style=\"line-height: 26px;\"><br></span></font></div><div><font face=\"Titillium Web, sans-serif\"><span style=\"line-height: 26px;\">Idéal à l'apéritif, il s'apprécie aussi en fin de repas glacé sur de nombreux desserts.</span></font></div><div><font face=\"Titillium Web, sans-serif\"><span style=\"line-height: 26px;\"><br></span></font></div><div><font face=\"Titillium Web, sans-serif\"><span style=\"line-height: 26px;\">Un produit d'exception qui fait honneur aux terroirs et artisans de notre belle France !</span></font></div>"
         },
         {
           "_tags": [
@@ -685,98 +749,40 @@
           "_params": {
             "googleMap": {
               "address": "SARL QUERCY DES ILES",
-              "placeId": "ChIJYaYWlUGNqxIR3i85xGKgjsA",
-              "state": "ok",
-              "stateDetails": ""
+              "placeId": "",
+              "state": "loading"
             }
           }
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_anchor": "form1-22",
-          "_params": {
-            "labelsColor": "#d5d3bf",
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#54585a",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": false
-          },
-          "title": "Formulaire de contact",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "form": {
-            "action": "chanut.mathilde@outlook.fr",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">VALIDER</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#d5d3bf"
-            },
-            ".mbr-section-title": {
-              "color": "#d5d3bf"
-            }
-          }
-        },
-        {
-          "_inherit": "social-buttons2",
           "_styles": {
             ".mbr-section-title, .btn-social": {
-              "color": "#fff"
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-size": "46px",
+              "color": "#000000"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-1z",
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-2a",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#d5d3bf",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/20915340-1002714699867410-8299332532031338696-n-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#ffffff"
           },
-          "text": "FOLLOW US",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>      "
+          "text": "Suivez-nous",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/quercydesiles/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/user/quercydesiles\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
         },
         {
           "_tags": [
@@ -844,7 +850,7 @@
               "color": "#ffffff",
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "25px"
+              "font-size": "21px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -927,40 +933,64 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Accueil\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quercy des îles</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accueil\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Recettes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entrées\">Entrées</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plats\">Plats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Desserts\">Desserts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cocktails\">Cocktails</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Le domaine\" aria-expanded=\"false\">Le domaine<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li>"
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Accueil\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quercy des îles<br>l'apéritif des soleils<br></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accueil\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Toutes les recettes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entrées\">Entrées</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plats\">Plats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Desserts\">Desserts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cocktails\">Cocktails</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Le domaine\" aria-expanded=\"false\">Le domaine<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.facebook.com/quercydesiles/\" target=\"_blank\">N'hésitez pas à poster vos recettes ici !</a></li>"
         },
         {
           "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "content5",
-          "_anchor": "content5-5",
+          "_name": "header3",
+          "_anchor": "header3-2c",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#54585a",
+            "showMeta": true
+          },
+          "title": "lnn",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "30px",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "msg-box1-26",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/la-dcouverte-du-chasselas-2000x681.jpg",
-            "bgColor": "#fff",
+            "bgImage": "@PROJECT_PATH@/assets/images/salade-trevise-a-la-betterave-et-aux-magrets-fumes-full-recipe-illustration-2000x1183.jpg",
+            "bgColor": "#e40213",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "showTitle": false,
-            "showCaption": false
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": false,
+            "showTitle": true
           },
-          "title": "BACKGROUND IMAGE",
-          "caption": "<p>Background image with solid color overlay and parallax effect. Develop fully responsive, mobile-ready websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.</p>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Salade de trevise aux raisins blanc etcube de feta\" data-toolbar=\"-mbrBtnMove\">La recette du moment</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "Salade de trevise aux raisins blancs et cube de feta"
         },
         {
           "_tags": [
@@ -970,13 +1000,13 @@
           "_styles": {
             "H4": {
               "color": "#b8312f",
-              "font-size": "30px"
+              "font-size": "24px"
             }
           },
-          "_anchor": "features3-y",
+          "_anchor": "features3-23",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1096,7 +1126,7 @@
               "text-align": "center"
             }
           },
-          "_anchor": "contacts1-8",
+          "_anchor": "contacts1-m",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
@@ -1147,7 +1177,7 @@
               "color": "#ffffff",
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "25px"
+              "font-size": "21px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -1230,14 +1260,20 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Accueil\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quercy des îles</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accueil\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Recettes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entrées\">Entrées</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plats\">Plats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Desserts\">Desserts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cocktails\">Cocktails</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Le domaine\" aria-expanded=\"false\">Le domaine<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li>"
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Accueil\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quercy des îles<br>l'apéritif des soleils<br></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accueil\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Toutes les recettes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entrées\">Entrées</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plats\">Plats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Desserts\">Desserts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cocktails\">Cocktails</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Le domaine\" aria-expanded=\"false\">Le domaine<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.facebook.com/quercydesiles/\" target=\"_blank\">N'hésitez pas à poster vos recettes ici !</a></li>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "H4": {
+              "color": "#b8312f",
+              "font-size": "24px"
+            }
+          },
           "_anchor": "features3-15",
           "_params": {
             "paddingTop": "3",
@@ -1340,13 +1376,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "H4": {
-              "color": "#b8312f",
-              "font-size": "24px"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
@@ -1410,7 +1440,7 @@
               "color": "#ffffff",
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "25px"
+              "font-size": "21px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -1493,8 +1523,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Accueil\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quercy des îles</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accueil\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Recettes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entrées\">Entrées</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plats\">Plats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Desserts\">Desserts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cocktails\">Cocktails</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Le domaine\" aria-expanded=\"false\">Le domaine<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li>"
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Accueil\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quercy des îles<br>l'apéritif des soleils<br></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accueil\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Toutes les recettes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entrées\">Entrées</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plats\">Plats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Desserts\">Desserts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cocktails\">Cocktails</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Le domaine\" aria-expanded=\"false\">Le domaine<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.facebook.com/quercydesiles/\" target=\"_blank\">N'hésitez pas à poster vos recettes ici !</a></li>"
         },
         {
           "_tags": [
@@ -1536,7 +1566,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "Cocktails choisit",
+              "link": "",
               "alt": "",
               "title": "",
               "linkInNewWindow": true
@@ -1615,6 +1645,29 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "content1",
+          "_anchor": "content1-2e",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#d5d3bf"
+          },
+          "text": "<blockquote>L'abus d'alcool est dangereux pour la santé.</blockquote>",
+          "_styles": {
+            "PRE": {
+              "text-align": "center"
+            },
+            "BLOCKQUOTE": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "15px"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "contacts1",
           "_styles": {
             "P": {
@@ -1673,7 +1726,7 @@
               "color": "#ffffff",
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "25px"
+              "font-size": "21px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -1756,8 +1809,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Accueil\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quercy des îles</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accueil\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Recettes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entrées\">Entrées</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plats\">Plats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Desserts\">Desserts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cocktails\">Cocktails</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Le domaine\" aria-expanded=\"false\">Le domaine<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li>"
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Accueil\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quercy des îles<br>l'apéritif des soleils<br></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accueil\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Toutes les recettes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entrées\">Entrées</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plats\">Plats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Desserts\">Desserts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cocktails\">Cocktails</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Le domaine\" aria-expanded=\"false\">Le domaine<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.facebook.com/quercydesiles/\" target=\"_blank\">N'hésitez pas à poster vos recettes ici !</a></li>"
         },
         {
           "_styles": {
@@ -1841,9 +1894,10 @@
               "name": "shoping-basket",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "title1": "Bootstrap 4",
@@ -1857,9 +1911,10 @@
               "name": "alert",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "title2": "Responsive",
@@ -1989,7 +2044,7 @@
               "color": "#ffffff",
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "25px"
+              "font-size": "21px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -2072,8 +2127,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Accueil\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quercy des îles</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accueil\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Recettes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entrées\">Entrées</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plats\">Plats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Desserts\">Desserts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cocktails\">Cocktails</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Le domaine\" aria-expanded=\"false\">Le domaine<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li>"
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Accueil\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quercy des îles<br>l'apéritif des soleils<br></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accueil\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Toutes les recettes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entrées\">Entrées</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plats\">Plats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Desserts\">Desserts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cocktails\">Cocktails</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Le domaine\" aria-expanded=\"false\">Le domaine<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.facebook.com/quercydesiles/\" target=\"_blank\">N'hésitez pas à poster vos recettes ici !</a></li>"
         },
         {
           "_styles": {
@@ -2157,9 +2212,10 @@
               "name": "shoping-basket",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "title1": "Bootstrap 4",
@@ -2173,9 +2229,10 @@
               "name": "alert",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "title2": "Responsive",
@@ -2305,7 +2362,7 @@
               "color": "#ffffff",
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "25px"
+              "font-size": "21px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -2388,8 +2445,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Accueil\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quercy des îles</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accueil\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Recettes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entrées\">Entrées</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plats\">Plats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Desserts\">Desserts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cocktails\">Cocktails</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Le domaine\" aria-expanded=\"false\">Le domaine<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li>"
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Accueil\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quercy des îles<br>l'apéritif des soleils<br></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accueil\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Toutes les recettes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entrées\">Entrées</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plats\">Plats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Desserts\">Desserts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cocktails\">Cocktails</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Le domaine\" aria-expanded=\"false\">Le domaine<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.facebook.com/quercydesiles/\" target=\"_blank\">N'hésitez pas à poster vos recettes ici !</a></li>"
         },
         {
           "_styles": {
@@ -2473,9 +2530,10 @@
               "name": "shoping-basket",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "title1": "Bootstrap 4",
@@ -2484,13 +2542,15 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "edit",
-              "link": "https://mobirise.com",
+              "linkInNewWindow": false,
+              "name": "alert",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
               "size": 0,
               "color": "black",
-              "family": "et-line"
+              "newWindow": false
             }
           },
           "title2": "Responsive",
@@ -2620,7 +2680,7 @@
               "color": "#ffffff",
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "25px"
+              "font-size": "21px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -2703,8 +2763,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Accueil\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quercy des îles</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accueil\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Recettes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entrées\">Entrées</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plats\">Plats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Desserts\">Desserts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cocktails\">Cocktails</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Le domaine\" aria-expanded=\"false\">Le domaine<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li>"
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Accueil\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quercy des îles<br>l'apéritif des soleils<br></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accueil\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Toutes les recettes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entrées\">Entrées</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plats\">Plats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Desserts\">Desserts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cocktails\">Cocktails</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Le domaine\" aria-expanded=\"false\">Le domaine<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.facebook.com/quercydesiles/\" target=\"_blank\">N'hésitez pas à poster vos recettes ici !</a></li>"
         },
         {
           "_styles": {
@@ -2785,9 +2845,10 @@
               "name": "shoping-basket",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "title1": "Bootstrap 4",
@@ -2801,9 +2862,10 @@
               "name": "alert",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "title2": "Responsive",
@@ -2933,7 +2995,7 @@
               "color": "#ffffff",
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "25px"
+              "font-size": "21px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -3016,8 +3078,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Accueil\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quercy des îles</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accueil\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Recettes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entrées\">Entrées</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plats\">Plats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Desserts\">Desserts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cocktails\">Cocktails</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Le domaine\" aria-expanded=\"false\">Le domaine<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li>"
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Accueil\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quercy des îles<br>l'apéritif des soleils<br></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accueil\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Toutes les recettes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entrées\">Entrées</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plats\">Plats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Desserts\">Desserts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cocktails\">Cocktails</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Le domaine\" aria-expanded=\"false\">Le domaine<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.facebook.com/quercydesiles/\" target=\"_blank\">N'hésitez pas à poster vos recettes ici !</a></li>"
         },
         {
           "_styles": {
@@ -3098,9 +3160,10 @@
               "name": "shoping-basket",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "title1": "Bootstrap 4",
@@ -3114,9 +3177,10 @@
               "name": "alert",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "title2": "Responsive",
@@ -3246,7 +3310,7 @@
               "color": "#ffffff",
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "25px"
+              "font-size": "21px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -3329,8 +3393,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Accueil\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quercy des îles</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accueil\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Recettes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entrées\">Entrées</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plats\">Plats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Desserts\">Desserts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cocktails\">Cocktails</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Le domaine\" aria-expanded=\"false\">Le domaine<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li>"
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Accueil\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quercy des îles<br>l'apéritif des soleils<br></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accueil\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Toutes les recettes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entrées\">Entrées</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plats\">Plats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Desserts\">Desserts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cocktails\">Cocktails</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Le domaine\" aria-expanded=\"false\">Le domaine<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.facebook.com/quercydesiles/\" target=\"_blank\">N'hésitez pas à poster vos recettes ici !</a></li>"
         },
         {
           "_styles": {
@@ -3411,9 +3475,10 @@
               "name": "shoping-basket",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "title1": "Bootstrap 4",
@@ -3427,9 +3492,10 @@
               "name": "alert",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "title2": "Responsive",
@@ -3559,7 +3625,7 @@
               "color": "#ffffff",
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "25px"
+              "font-size": "21px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -3642,8 +3708,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Accueil\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quercy des îles</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accueil\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Recettes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entrées\">Entrées</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plats\">Plats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Desserts\">Desserts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cocktails\">Cocktails</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Le domaine\" aria-expanded=\"false\">Le domaine<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li>"
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Accueil\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quercy des îles<br>l'apéritif des soleils<br></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accueil\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Toutes les recettes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entrées\">Entrées</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plats\">Plats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Desserts\">Desserts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cocktails\">Cocktails</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Le domaine\" aria-expanded=\"false\">Le domaine<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.facebook.com/quercydesiles/\" target=\"_blank\">N'hésitez pas à poster vos recettes ici !</a></li>"
         },
         {
           "_styles": {
@@ -3724,9 +3790,10 @@
               "name": "shoping-basket",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "title1": "Bootstrap 4",
@@ -3740,9 +3807,10 @@
               "name": "alert",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "title2": "Responsive",
@@ -3872,7 +3940,7 @@
               "color": "#ffffff",
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "25px"
+              "font-size": "21px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -3955,8 +4023,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Accueil\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quercy des îles</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accueil\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Recettes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entrées\">Entrées</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plats\">Plats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Desserts\">Desserts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cocktails\">Cocktails</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Le domaine\" aria-expanded=\"false\">Le domaine<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li>"
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Accueil\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quercy des îles<br>l'apéritif des soleils<br></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accueil\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Toutes les recettes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entrées\">Entrées</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plats\">Plats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Desserts\">Desserts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cocktails\">Cocktails</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Le domaine\" aria-expanded=\"false\">Le domaine<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.facebook.com/quercydesiles/\" target=\"_blank\">N'hésitez pas à poster vos recettes ici !</a></li>"
         },
         {
           "_styles": {
@@ -4037,9 +4105,10 @@
               "name": "shoping-basket",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "title1": "Bootstrap 4",
@@ -4053,9 +4122,10 @@
               "name": "alert",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "title2": "Responsive",

@@ -426,7 +426,7 @@ h6,
 #menu-h .navbar-caption {
   color: #ffffff;
   font-family: 'Indie Flower', cursive;
-  font-size: 25px;
+  font-size: 21px;
 }
 #menu-h .navbar-toggler {
   color: #ffffff;
@@ -500,7 +500,7 @@ h6,
 #menu-j .navbar-caption {
   color: #ffffff;
   font-family: 'Indie Flower', cursive;
-  font-size: 25px;
+  font-size: 21px;
 }
 #menu-j .navbar-toggler {
   color: #ffffff;
@@ -574,7 +574,7 @@ h6,
 #menu-n .navbar-caption {
   color: #ffffff;
   font-family: 'Indie Flower', cursive;
-  font-size: 25px;
+  font-size: 21px;
 }
 #menu-n .navbar-toggler {
   color: #ffffff;
@@ -638,15 +638,13 @@ h6,
 #content2-1x DIV {
   text-align: center;
 }
-#form1-22 .form-control-label {
-  color: #d5d3bf;
+#social-buttons2-2a .mbr-section-title,
+#social-buttons2-2a .btn-social {
+  color: #232323;
 }
-#form1-22 .mbr-section-title {
-  color: #d5d3bf;
-}
-#social-buttons4-1z .mbr-section-title,
-#social-buttons4-1z .btn-social {
-  color: #fff;
+#social-buttons2-2a .mbr-section-title {
+  font-size: 46px;
+  color: #000000;
 }
 #contacts1-o P {
   color: #f3c649;
@@ -660,7 +658,7 @@ h6,
 #menu-2 .navbar-caption {
   color: #ffffff;
   font-family: 'Indie Flower', cursive;
-  font-size: 25px;
+  font-size: 21px;
 }
 #menu-2 .navbar-toggler {
   color: #ffffff;
@@ -718,15 +716,19 @@ h6,
 #menu-2 .dropdown-item[aria-expanded="true"] {
   color: #54585a!important;
 }
-#content5-5 .mbr-section-title,
-#content5-5 p {
-  color: #fff;
+#header3-2c .mbr-section-title,
+#header3-2c .mbr-section-subtitle {
+  text-align: center;
 }
-#features3-y H4 {
-  color: #b8312f;
+#msg-box1-26 H3 {
   font-size: 30px;
+  color: #ffffff;
 }
-#contacts1-8 P {
+#features3-23 H4 {
+  color: #b8312f;
+  font-size: 24px;
+}
+#contacts1-m P {
   color: #fbdb65;
   text-align: center;
 }
@@ -738,7 +740,7 @@ h6,
 #menu-l .navbar-caption {
   color: #ffffff;
   font-family: 'Indie Flower', cursive;
-  font-size: 25px;
+  font-size: 21px;
 }
 #menu-l .navbar-toggler {
   color: #ffffff;
@@ -806,13 +808,14 @@ h6,
 }
 
 
+
 #menu-f .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-f .navbar-caption {
   color: #ffffff;
   font-family: 'Indie Flower', cursive;
-  font-size: 25px;
+  font-size: 21px;
 }
 #menu-f .navbar-toggler {
   color: #ffffff;
@@ -874,6 +877,13 @@ h6,
   color: #b8312f;
   font-size: 24px;
 }
+#content1-2e PRE {
+  text-align: center;
+}
+#content1-2e BLOCKQUOTE {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+}
 #contacts1-g P {
   color: #fbdb65;
   text-align: center;
@@ -886,7 +896,7 @@ h6,
 #menu-t .navbar-caption {
   color: #ffffff;
   font-family: 'Indie Flower', cursive;
-  font-size: 25px;
+  font-size: 21px;
 }
 #menu-t .navbar-toggler {
   color: #ffffff;
@@ -970,7 +980,7 @@ h6,
 #menu-z .navbar-caption {
   color: #ffffff;
   font-family: 'Indie Flower', cursive;
-  font-size: 25px;
+  font-size: 21px;
 }
 #menu-z .navbar-toggler {
   color: #ffffff;
@@ -1054,7 +1064,7 @@ h6,
 #menu-p .navbar-caption {
   color: #ffffff;
   font-family: 'Indie Flower', cursive;
-  font-size: 25px;
+  font-size: 21px;
 }
 #menu-p .navbar-toggler {
   color: #ffffff;
@@ -1138,7 +1148,7 @@ h6,
 #menu-19 .navbar-caption {
   color: #ffffff;
   font-family: 'Indie Flower', cursive;
-  font-size: 25px;
+  font-size: 21px;
 }
 #menu-19 .navbar-toggler {
   color: #ffffff;
@@ -1219,7 +1229,7 @@ h6,
 #menu-1f .navbar-caption {
   color: #ffffff;
   font-family: 'Indie Flower', cursive;
-  font-size: 25px;
+  font-size: 21px;
 }
 #menu-1f .navbar-toggler {
   color: #ffffff;
@@ -1300,7 +1310,7 @@ h6,
 #menu-1k .navbar-caption {
   color: #ffffff;
   font-family: 'Indie Flower', cursive;
-  font-size: 25px;
+  font-size: 21px;
 }
 #menu-1k .navbar-toggler {
   color: #ffffff;
@@ -1381,7 +1391,7 @@ h6,
 #menu-1o .navbar-caption {
   color: #ffffff;
   font-family: 'Indie Flower', cursive;
-  font-size: 25px;
+  font-size: 21px;
 }
 #menu-1o .navbar-toggler {
   color: #ffffff;
@@ -1462,7 +1472,7 @@ h6,
 #menu-1s .navbar-caption {
   color: #ffffff;
   font-family: 'Indie Flower', cursive;
-  font-size: 25px;
+  font-size: 21px;
 }
 #menu-1s .navbar-toggler {
   color: #ffffff;
