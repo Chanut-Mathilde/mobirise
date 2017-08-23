@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Le domaine",
+    "currentPage": "Accueil",
     "name": "Quercy des îles",
     "theme": {
       "name": "mobirise3",
@@ -924,7 +924,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo4-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
+              "link": "Accueil",
               "title": "",
               "linkInNewWindow": false
             },
