@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Accueil",
+    "currentPage": "Le domaine",
     "name": "Quercy des îles",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 87,
+    "uniqCompNum": 89,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x128.png",
     "noImageResize": ""
@@ -57,10 +57,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -95,7 +95,7 @@
           "_anchor": "menu-h",
           "_params": {
             "bgColor": "#54585a",
-            "fontSize": 0.75,
+            "fontSize": "0.6",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -320,10 +320,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -358,7 +358,7 @@
           "_anchor": "menu-j",
           "_params": {
             "bgColor": "#54585a",
-            "fontSize": 0.75,
+            "fontSize": "0.6",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -583,10 +583,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -621,7 +621,7 @@
           "_anchor": "menu-n",
           "_params": {
             "bgColor": "#54585a",
-            "fontSize": 0.75,
+            "fontSize": "0.6",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -664,10 +664,10 @@
             "autoplay": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "timeout": 5,
+            "timeout": "3",
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/13962669-743977105741172-2410444694061692479-n-2000x1500.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -710,11 +710,26 @@
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/13962669-743977105741172-2410444694061692479-n-2000x1500.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.1",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "FULL SCREEN SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
             "fullScreen": false,
             "bgColor": "#fff",
-            "showBullets": false
+            "showBullets": true
           },
           "_anchor": "slider-27",
           "articleLayout": false
@@ -745,12 +760,13 @@
             "Theme"
           ],
           "_name": "map1",
-          "_anchor": "map1-20",
+          "_anchor": "map1-2g",
           "_params": {
             "googleMap": {
-              "address": "SARL QUERCY DES ILES",
-              "placeId": "",
-              "state": "loading"
+              "address": "82150 MONTAIGU DE QUERCY\nsarl Quercy des iles",
+              "placeId": "ChIJYaYWlUGNqxIR3i85xGKgjsA",
+              "state": "ok",
+              "stateDetails": ""
             }
           }
         },
@@ -864,10 +880,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -899,10 +915,10 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-2",
+          "_anchor": "menu-1s",
           "_params": {
             "bgColor": "#54585a",
-            "fontSize": 0.75,
+            "fontSize": "0.6",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -937,26 +953,6 @@
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accueil\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Toutes les recettes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entrées\">Entrées</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plats\">Plats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Desserts\">Desserts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cocktails\">Cocktails</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Le domaine\" aria-expanded=\"false\">Le domaine<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.facebook.com/quercydesiles/\" target=\"_blank\">N'hésitez pas à poster vos recettes ici !</a></li>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-2c",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#54585a",
-            "showMeta": true
-          },
-          "title": "lnn",
-          "meta": ""
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -970,7 +966,7 @@
           "_anchor": "msg-box1-26",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": true,
             "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/salade-trevise-a-la-betterave-et-aux-magrets-fumes-full-recipe-illustration-2000x1183.jpg",
@@ -1191,10 +1187,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1229,7 +1225,7 @@
           "_anchor": "menu-l",
           "_params": {
             "bgColor": "#54585a",
-            "fontSize": 0.75,
+            "fontSize": "0.6",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -1454,10 +1450,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1492,7 +1488,7 @@
           "_anchor": "menu-f",
           "_params": {
             "bgColor": "#54585a",
-            "fontSize": 0.75,
+            "fontSize": "0.6",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -1646,13 +1642,6 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-2e",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#d5d3bf"
-          },
-          "text": "<blockquote>L'abus d'alcool est dangereux pour la santé.</blockquote>",
           "_styles": {
             "PRE": {
               "text-align": "center"
@@ -1662,7 +1651,14 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "font-size": "15px"
             }
-          }
+          },
+          "_anchor": "content1-2e",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#d5d3bf"
+          },
+          "text": "<blockquote>L'abus d'alcool est dangereux pour la santé.</blockquote>"
         },
         {
           "_tags": [
@@ -1740,10 +1736,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1778,7 +1774,7 @@
           "_anchor": "menu-t",
           "_params": {
             "bgColor": "#54585a",
-            "fontSize": 0.75,
+            "fontSize": "0.6",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -2058,10 +2054,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2096,7 +2092,7 @@
           "_anchor": "menu-z",
           "_params": {
             "bgColor": "#54585a",
-            "fontSize": 0.75,
+            "fontSize": "0.6",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -2376,10 +2372,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2414,7 +2410,7 @@
           "_anchor": "menu-p",
           "_params": {
             "bgColor": "#54585a",
-            "fontSize": 0.75,
+            "fontSize": "0.6",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -2694,10 +2690,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2732,7 +2728,7 @@
           "_anchor": "menu-19",
           "_params": {
             "bgColor": "#54585a",
-            "fontSize": 0.75,
+            "fontSize": "0.6",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -3009,10 +3005,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -3047,7 +3043,7 @@
           "_anchor": "menu-1f",
           "_params": {
             "bgColor": "#54585a",
-            "fontSize": 0.75,
+            "fontSize": "0.6",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -3324,10 +3320,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -3362,7 +3358,7 @@
           "_anchor": "menu-1k",
           "_params": {
             "bgColor": "#54585a",
-            "fontSize": 0.75,
+            "fontSize": "0.6",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -3639,10 +3635,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -3677,7 +3673,7 @@
           "_anchor": "menu-1o",
           "_params": {
             "bgColor": "#54585a",
-            "fontSize": 0.75,
+            "fontSize": "0.6",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -3954,10 +3950,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -3992,7 +3988,7 @@
           "_anchor": "menu-1s",
           "_params": {
             "bgColor": "#54585a",
-            "fontSize": 0.75,
+            "fontSize": "0.6",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -4039,7 +4035,7 @@
           "_anchor": "msg-box8-1v",
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/salade-trevise-a-la-betterave-et-aux-magrets-fumes-full-recipe-illustration-2000x1183.jpg",
