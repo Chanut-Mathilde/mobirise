@@ -667,12 +667,12 @@
             "timeout": "3",
             "slides": [
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/13962669-743977105741172-2410444694061692479-n-2000x1500.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/montaigu-de-quercy-2000x1333.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
-                "overlayOpacity": "0.1",
+                "overlayOpacity": "0.2",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "FULL SCREEN SLIDER",
@@ -683,7 +683,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/15400579-820494988089383-6596754676642170609-n-2000x1443.jpg",
+                "image": "@PROJECT_PATH@/assets/images/la-dcouverte-du-chasselas-2000x681.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -712,12 +712,12 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/13962669-743977105741172-2410444694061692479-n-2000x1500.jpg",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/15400579-820494988089383-6596754676642170609-n-2000x1443.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
-                "overlayOpacity": "0.1",
+                "overlayOpacity": "0.2",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "FULL SCREEN SLIDER",
